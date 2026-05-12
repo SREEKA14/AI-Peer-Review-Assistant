@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+sentence-transformers
+chromadb
+pypdf
+python-multipart
+transformers
+torch

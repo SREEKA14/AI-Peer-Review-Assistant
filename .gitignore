@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Database
+database/
+
+# Uploaded PDFs
+uploads/
+
+# Node
+node_modules/
+dist/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
